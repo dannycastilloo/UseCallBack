@@ -5,7 +5,6 @@ export const CallBackComponent = () => {
 
     const [counter, setCounter] = useState(0)
 
-    // Guardar una función, memorizarla y no redibujar los elementos que no queremos que vuelvan a dibujarse
     const increaseFather = useCallback(
         (val) => {
         setCounter(value => value + val)
