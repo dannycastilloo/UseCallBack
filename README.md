@@ -1,8 +1,10 @@
-# React + Vite
+## Application
+![image](https://github.com/dannycastilloo/UseCallBack/assets/76531494/5a36fd02-60e6-43bd-918e-b57558c2aca3)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+- This is a simple counter, which uses React's hook called useCallBack.
 
-Currently, two official plugins are available:
+## Information
+- This hook helps us to save, memorize a function and don't draw the elements that we do not want to be drawn again.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was initialized with React + Vite.
